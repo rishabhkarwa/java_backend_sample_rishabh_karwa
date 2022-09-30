@@ -36,9 +36,6 @@ public class Blog {
     private List<Comment> comments;
 
     /**
-     * @param id
-     * @param createdDate
-     * @param lastModifiedDate
      * @param author
      * @param title
      * @param text
